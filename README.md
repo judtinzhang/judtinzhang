@@ -2,6 +2,8 @@
 
 I'm a current sophomore at the [University of Pennsylvania](https://www.upenn.edu/) studying Computer Science! I am interested in product development and really enjoy working with friends to build cool projects 🚀 .
 
+Feel free to check out my personal website [here](https://www.judtin.com/)!
+
 <!--
 **judtinzhang/judtinzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
