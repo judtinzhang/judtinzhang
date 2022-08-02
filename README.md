@@ -1,6 +1,6 @@
 ### Hey there, I'm Justin 👋
 
-I'm a current junior at the [University of Pennsylvania](https://www.upenn.edu/) studying Computer Science! I am interested in product development and really enjoy working with friends to build cool projects 🚀 .
+I'm a current junior at the University of Pennsylvania studying Computer Science! I am interested in product development and really enjoy working with friends to build cool projects 🚀 .
 
 Feel free to check out my personal website [here](https://www.judtin.com/)!
 
