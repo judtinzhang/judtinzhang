@@ -1,9 +1,5 @@
 ### Hey there, I'm Justin 👋
 
-I'm a current senior at the University of Pennsylvania studying Computer Science 🚀.
-
-
-
 <!--
 Feel free to check out my personal website [here](https://www.judtin.com/)!
 
